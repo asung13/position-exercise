@@ -1,0 +1,62 @@
+body {
+	background-color: black;
+	margin-top: 100px;
+} 
+
+.container {
+	width: 800px;
+	height: 600px;
+    margin: auto;
+	background-color: white;
+}
+
+.yellow {
+	width: 100px;
+	height: 100px;
+	background-color: yellow;
+}
+.red {
+	width: 100px;
+	height: 100px;
+	background-color: red;
+}
+.black1 {
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+.black2 {
+	width: 100px;
+	height: 100px;
+	background-color: black;
+}
+
+.magenta {
+	width: 100px;
+	height: 100px;
+	background-color: magenta;
+}
+
+.purple {
+	width: 100px;
+	height: 100px;
+	background-color: purple;
+}
+
+.brown {
+	width: 100px;
+	height: 100px;
+	background-color: brown;
+}
+
+.blue {
+	width: 100px;
+	height: 100px;
+	background-color: blue;
+}
+
+.orange {
+	width: 100px;
+	height: 100px;
+	background-color: orange;
+}
